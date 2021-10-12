@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* figure */
+.genre {
+    margin: 1rem 0;
+    position: relative;
+
+    
+}
+
+.photo {
+    
+    width: 25%;
+    height: 25%;
+    display: block;
+
+    
+}
+
+.caption {
+
+    background-color: rgba(0,0,0,0.5);
+	color:  whitesmoke;
+	font-size: 1.5em;
+	text-align: center;
+
+    width: 25%;
+	
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	
+}
